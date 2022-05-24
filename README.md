@@ -1,0 +1,5 @@
+2022-05-23
+
+Live Demo:
+
+Summary: Following along with Brad and Florin doing 50 JavaScript projects to get better at JavaScript. Today I created a progress bar that reacts on button clicks by using javascript to fill in the bar and the animation fill in is created with CSS. We started JS by creating the global variables that will be used throughout, we added a variable that holds our current count, we then created eventListeners for prev and next, the buttons we use to progress this code. We then create a function that adds or removes the css class on the html element through clicks and if statements. We also add a beginning and end state so the bar cannot continue onward after reaching the end and cannot decrease by using the prev button after 1. This again helped to solidify not only code structure that's becoming a pattern to me, putting global variables at the top, followed by count variables, eventlisteners, functions afterwards, etc., overall a fun, albeit quite useless in it's current state, project. Adding this maybe for a tip button that increments by percents like onClick add 1% more tip, or something of the sort could be useful.
